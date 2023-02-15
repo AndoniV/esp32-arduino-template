@@ -2,7 +2,7 @@
  @author    A Villarreal
  @date      15/02/23
  @file      main.cpp
- @brief     Arduino sketch for GL05 motor durability digital counters
+ @brief     Main application "sketch"
  ******************************************************************************/
 
 #include <Arduino.h>
