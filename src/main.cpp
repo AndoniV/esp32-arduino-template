@@ -70,7 +70,6 @@ void setup(void)
     Log.begin(LOG_LEVEL_VERBOSE, &Serial);
     Log.notice("********************************************************************************\n");
     Log.notice("Firmware v%d.%d\n", FW_VERSION_MAJ, FW_VERSION_MIN);
-    Log.notice("Copyright (c) Glue Home Ltd, 2022. All rights reserved\n");
     Log.notice("Built %s %s\n", __DATE__, __TIME__);
     Log.notice("********************************************************************************\n");
 
